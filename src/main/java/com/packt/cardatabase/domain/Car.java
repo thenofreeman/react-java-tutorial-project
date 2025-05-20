@@ -41,7 +41,7 @@ public class Car {
 		return brand;
 	}
 
-	public void setBrand() {
+	public void setBrand(String brand) {
 		this.brand = brand;
 	}
 
